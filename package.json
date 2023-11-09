@@ -1,0 +1,13 @@
+{
+  "name": "dashware-telematry",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Robert Leeuwerink",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "json-2-csv": "^5.0.1"
+  }
+}
